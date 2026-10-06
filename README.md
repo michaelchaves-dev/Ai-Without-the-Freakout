@@ -8,3 +8,8 @@ A high-signal, zero-panic repository tracking real-world AI achievements, techni
 - **Series Position:** First publication in the AI-WOF research series
 - **Link:** https://subtractionarchitect.substack.com/p/ai-wof-research-series-bulletin-engineering?r=6wyptg
 - **Summary:** Introduces a neutral-intelligence framing for long-horizon coordination, with emphasis on memory architecture, system-level technical advancement pathways, and benchmarking orientation for future reporting.
+
+<!-- SAS-IP-FOOTER-v1 -->
+---
+**Subtract Architect Studios™**  
+Copyright © 2026 Michael F. Chaves. All rights reserved in original Subtract Architect Studios materials except as expressly licensed. See [IP_NOTICE.md](./IP_NOTICE.md). Existing open-source and third-party licenses remain controlling for materials they cover.
